@@ -92,3 +92,9 @@ Import into your stylesheet:
 //////////////////////////////
 @include reverse-shade($depth, $shadow, $from: 'top right', $depth-distance: 25, $shadow-distance: 40, $size: .005em) {}
 ```
+
+## License
+
+(c) Sam Richard, 2014
+
+[MIT](https://github.com/Snugug/letterform-shades/blob/master/LICENSE.txt)
