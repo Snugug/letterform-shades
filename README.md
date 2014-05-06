@@ -2,6 +2,10 @@
 
 A little Sass library to work with the fantastic shadowing examples from [Typekit Practice](http://practice.typekit.com/lesson/using-shades/)
 
+## Requirements
+
+Letterform Shades requires a Sass compiler that includes the Sass 3.3 feature [`str-index`](http://sass-lang.com/documentation/Sass/Script/Functions.html#str_index-instance_method), or a compatible implementation of said function.
+
 ## Installation
 
 Install either from Bower or RubyGems
