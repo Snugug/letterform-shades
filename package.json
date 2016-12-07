@@ -1,0 +1,30 @@
+{
+  "name": "letterform-shades",
+  "version": "1.0.0",
+  "description": "Letterform Shade mixins for Sass",
+  "main": "stylesheets/_letterform-shades.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "exports": "eyeglass-exports.js",
+    "name": "letterform-shades"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snugug/letterform-shades.git"
+  },
+  "keywords": [
+    "sass",
+    "typography",
+    "eyeglass-module",
+    "letterform"
+  ],
+  "author": "Sam Richard <sam@snug.ug>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snugug/letterform-shades/issues"
+  },
+  "homepage": "https://github.com/Snugug/letterform-shades#readme"
+}
